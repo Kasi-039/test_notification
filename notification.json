@@ -1,0 +1,54 @@
+{
+    "total_count": 553,
+    "offset": 0,
+    "limit": 1,
+    "notifications": [
+        {
+            
+            "app_id": "3beb3078-e0f1-4629-af17-fde833b9f716",
+            
+            "chrome_web_icon": "https://img.onesignal.com/t/73b9b966-f19e-4410-8b5d-51ebdef4652e.png",
+            
+            "ios_interruption_level":"active",
+                    "ios_relevance_score": 0.0,
+            "name": "Campaign: New Shoe Releases", 
+            "contents": {
+                "en": "Come by and check out our new Jordan's!!! (Shoes) 🎃🙊👻"
+            },
+            "converted": 0,
+            "data": {
+                "your_data_key": "your_data_value"
+            },
+            
+            "errored": 1,
+            "excluded_segments": [
+                "3 Days Inactive"
+            ],
+            "failed": 0,
+            
+            "headings": {
+                "en": "Thomas' Greatest Site in the World!! 😜😁"
+            },
+            "id": "e664a747-324c-406a-bafb-ab51db71c960",
+            
+            "included_segments": [
+                "all"
+            ],
+            "queued_at": 1557946677,
+            "send_after": 1557946620,
+            "completed_at": 1557946677,
+            "successful": 386,
+            "received": 333,
+            
+            "template_id": "5e605fcd-de88-4b0a-a5eb-5c18b84d52f3",
+            "ttl": 259200,
+            "url": null,
+            "web_url": "https://onesignal.com",
+            "app_url": "my-app://onesignal.com",
+            "ios_attachments": {
+                "id": "https://img.onesignal.com/n/44843933-68d4-450c-af5c-5e5c1a9d946e.jpg"
+            }
+        }
+    ]
+}
+
